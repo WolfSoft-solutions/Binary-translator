@@ -1,0 +1,23 @@
+{
+  "name": "binary-translator",
+  "version": "0.0.1",
+  "description": "A bot that lets you translate binary to normal read-able text",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Lost-Pack-Development/binary-translator.git"
+  },
+  "author": "commander-r",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/The-Lost-Pack-Development/binary-translator/issues"
+  },
+  "homepage": "https://github.com/The-Lost-Pack-Development/binary-translator#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "moment": "^2.29.4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "token": "MTAxMDE2ODU1MTUyNjYzMzU2Mg.G4Laip.zTYxyPLoAfkITCKS3D0EEZeWTGA152WmyCtoas",
+    "clientId": "1010168551526633562",
+    "guildId": "965973362499256421",
+
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=1010168551526633562&permissions=8&scope=bot%20applications.commands"
+}
